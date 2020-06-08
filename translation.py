@@ -1,8 +1,16 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This <a href="https://tx.me/AID_3N">MAN</a>
+    START_TEXT = """ Hello,
+I am Telegram Rename Bot!
+
+I can Rename all type of telegram files with Permanent Custom Thumbnail Support🥳
+
 
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
-SEE /help For My Features"""
+
+See /help For My Features
+
+
+Created by This <a href="https://tx.me/Robots007">Person</a>"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
