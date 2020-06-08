@@ -28,13 +28,24 @@ Created by This <a href="https://tx.me/Robots007">Person</a>"""
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
     CUSTOM_CAPTION_UL_FILE = """Renamed by @Rename4bot"""
     HELP_USER = """<b>How To Use Me</b>🤔
+  
+  
+📌 If you need custom Thumbnail send the picture first (Optional)..
 
-    📌 Send me any Telegram File(Some Files Gets Error)
+📌 Now Send me any Telegram File which you want to Rename .
+
+📌 Reply to that file to /rename new name.extension. Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
+      
+ eg:-  <code>/rename tgRename.mkv</code>
+       
+       
+ ⚠️ Do one By One rename. Otherwise you will get Permenent Ban 🤷 
     
-    📌 Reply to that message to /rename NEW NAME.EXTENSION
+    
+    
     FEATURES
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
-    ➡ FOR Downloading Files At Highspeed Join @PUBLIC_LEECH_2"""
+    """
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
