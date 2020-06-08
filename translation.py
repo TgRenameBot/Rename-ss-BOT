@@ -47,5 +47,5 @@ Created by This <a href="https://tx.me/Robots007">Person</a>"""
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
     """
-    REPLY_TO_DOC_FOR_RENAME_FILE = "Reply The New Name With /rename Filename.extn"
+    REPLY_TO_DOC_FOR_RENAME_FILE = " FCUK! what are you doing 😬. Reply with New Name.extension, Like this ☛`/rename New Name.mkv`                                                                      still confuse ? goto @renamebot_s to get proper guide"
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
