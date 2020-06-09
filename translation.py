@@ -25,8 +25,8 @@ Created by This <a href="https://t.me/Robots007">Person</a>"""
     SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail Saved ✅ This Is Permanent Thumbnail ᕙ(  • ‿ •  )ᕗ "
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
-    SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎 /n don't forget to check @myTestbotz"
-    CUSTOM_CAPTION_UL_FILE = """Renamed by @Rename4bot"""
+    SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎  don't forget to sub @myTestbotz"
+    CUSTOM_CAPTION_UL_FILE = """Renamed by @ssRenamebot"""
     HELP_USER = """<b>How To Use Me</b>🤔
   
   
