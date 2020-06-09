@@ -10,7 +10,7 @@ I can Rename all type of telegram files with Permanent Custom Thumbnail Support�
 See /help For My Features
 
 
-Created by This <a href="https://tx.me/Robots007">Person</a>"""
+Created by This <a href="https://t.me/Robots007">Person</a>"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
@@ -47,5 +47,6 @@ Created by This <a href="https://tx.me/Robots007">Person</a>"""
     ➡Rename Telegram File With Custom Thumbnail.
     ➡Convert Streamable File(Video) To File.
     """
-    REPLY_TO_DOC_FOR_RENAME_FILE = " FCUK! what are you doing 😬. Reply with New Name.extension, Like this ☛`/rename New Name.mkv`                                                                      still confuse ? goto @renamebot_s to get proper guide"
+    REPLY_TO_DOC_FOR_RENAME_FILE = """ FCUK! what are you doing 😬. Reply with New Name.extension, Like this ☛`/rename New Name.mkv`                                                                     
+ still confuse ? goto @myTestbotz to get proper guide"""
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
