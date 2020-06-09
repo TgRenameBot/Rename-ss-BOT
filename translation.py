@@ -25,7 +25,7 @@ Created by This <a href="https://t.me/Robots007">Person</a>"""
     SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail Saved ✅ This Is Permanent Thumbnail ᕙ(  • ‿ •  )ᕗ "
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
-    SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎"
+    SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎 /n don't forget to check @myTestbotz"
     CUSTOM_CAPTION_UL_FILE = """Renamed by @Rename4bot"""
     HELP_USER = """<b>How To Use Me</b>🤔
   
@@ -34,19 +34,27 @@ Created by This <a href="https://t.me/Robots007">Person</a>"""
 
 📌 Now Send me any Telegram File which you want to Rename .
 
-📌 Reply to that file to /rename new name.extension. Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
+📌 Reply to that file to /rename new name.extension.         Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
       
- eg:-  <code>/rename tgRename.mkv</code>
+ eg:-  <code>/rename ssRename.mkv</code>
        
        
- ⚠️ Do one By One rename. Otherwise you will get Permenent Ban 🤷 
+ ⚠️ <b>Do one By One rename. Otherwise you will get Permenent Ban </b>🤷 ⚠️
     
     
     
-    FEATURES
-    ➡Rename Telegram File With Custom Thumbnail.
-    ➡Convert Streamable File(Video) To File.
+    <b>FEATURES</b>
+    ☛Rename Telegram File With permanent Custom Thumbnail.
+    ☛Convert Streamable File(Video) To File.
+
+
+
+     ▫️@myTestbotz▫️
     """
-    REPLY_TO_DOC_FOR_RENAME_FILE = """ FCUK! what are you doing 😬. Reply with New Name.extension, Like this ☛`/rename New Name.mkv`                                                                     
- still confuse ? goto @myTestbotz to get proper guide"""
+    REPLY_TO_DOC_FOR_RENAME_FILE = """ FCUK! what are you doing 😬. Reply with New Name.extension,
+ Like this ☛`/rename New Name.mkv`
+                                                                     
+ still confuse ? 
+
+goto @myTestbotz to get proper guide"""
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
