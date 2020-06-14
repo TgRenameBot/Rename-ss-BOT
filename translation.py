@@ -26,7 +26,7 @@ Created by This <a href="https://t.me/Robots007">Person</a>"""
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎  don't forget to sub @myTestbotz"
-    CUSTOM_CAPTION_UL_FILE = """Renamed by @ssRenamebot"""
+    CUSTOM_CAPTION_UL_FILE = """Renamed by @tgRenamebot"""
     HELP_USER = """<b>How To Use Me</b>🤔
   
   
@@ -34,9 +34,10 @@ Created by This <a href="https://t.me/Robots007">Person</a>"""
 
 📌 Now Send me any Telegram File which you want to Rename .
 
-📌 Reply to that file to /rename new name.extension.         Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
+📌 Reply to that file to /rename new name.extension.         
+Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
       
- eg:-  <code>/rename ssRename.mkv</code>
+ eg:-  <code>/rename new name.mkv</code>
        
        
  ⚠️ <b>Do one By One rename. Otherwise you will get Permenent Ban </b>🤷 ⚠️
@@ -57,4 +58,8 @@ Created by This <a href="https://t.me/Robots007">Person</a>"""
  still confuse ? 
 
 goto @myTestbotz to get proper guide"""
-    IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
+    IFLONG_FILE_NAME = """You Gotta Be Kidding Me...
+    This is Not a essay competition, 
+    File Name limit allowed by Telegram is {alimit} characters .
+The given file name has {num} characters .
+Decrease The Number Of Letters & Try 😆😉"""
