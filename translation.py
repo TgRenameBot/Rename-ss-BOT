@@ -14,7 +14,7 @@ Created by This <a href="https://t.me/OO7ROBOT">Person</a>"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "you can use me free, don't forget to thank my master @Robots007"
+    UPGRADE_TEXT = "you can use me free, don't forget to thank my master @OO7RoBot"
     DOWNLOAD_START = "Downloading to my server 📥                    please wait...🙇🙇🙇"
     UPLOAD_START = "Yay, Successfully Renamed. 😊.  Uploading to Telegram 📤 "
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? "
