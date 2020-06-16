@@ -10,7 +10,7 @@ I can Rename all type of telegram files with Permanent Custom Thumbnail Supportð
 See /help For My Features
 
 
-Created by This <a href="https://t.me/Robots007">Person</a>"""
+Created by This <a href="https://t.me/OO7ROBOT">Person</a>"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
