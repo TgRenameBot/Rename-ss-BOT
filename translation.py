@@ -57,7 +57,7 @@ Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
                                                                      
  still confuse ? 
 
-goto @myTestbotz to get proper guide"""
+goto @myTestbotz to get proper [Guide](https://t.me/myTestbotz/26)"""
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...
     This is Not a essay competition, 
     File Name limit allowed by Telegram is {alimit} characters .
