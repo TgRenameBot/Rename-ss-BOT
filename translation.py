@@ -23,7 +23,7 @@ Created by This <a href="https://t.me/OO7ROBOT">Person</a>"""
     NOT_AUTH_USER_TEXT = "CONTACT @Robots007"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @Robots007"
     SAVED_CUSTOM_THUMB_NAIL = "Custom File thumbnail Saved ✅ This Is Permanent Thumbnail ᕙ(  • ‿ •  )ᕗ "
-    DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
+    DEL_ETED_CUSTOM_THUMB_NAIL = "Sorry you can't clear Custom thumbnail 🤦 code Error 404 ...... my master trying to fix this issue. ..will be fix soon. "
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully😎  don't forget to sub @myTestbotz"
     CUSTOM_CAPTION_UL_FILE = """Renamed by @tgRenamebot"""
@@ -53,11 +53,14 @@ Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
      ▫️@myTestbotz▫️
     """
     REPLY_TO_DOC_FOR_RENAME_FILE = """ FCUK! what are you doing 😬. Reply with New Name.extension,
+
+        
  Like this ☛`/rename New Name.mkv`
                                                                      
  still confuse ? 
 
-goto @myTestbotz to get proper [Guide](https://t.me/myTestbotz/26)"""
+goto @myTestbotz to get proper Guide. 
+(☛ https://t.me/myTestbotz/26 )"""
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...
     This is Not a essay competition, 
     File Name limit allowed by Telegram is {alimit} characters .
