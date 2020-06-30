@@ -5,11 +5,9 @@ I am Telegram Rename Bot!
 I can Rename all type of telegram files with Permanent Custom Thumbnail Support🥳
 
 
-<b>Please send me any Telegram file and reply /rename New Name.extn</b>
-
 See /help For My Features
 
-🚨 <code>Please do one by one Rename,Maximum 2 parallel process allowed.If you missuse this free service will be lead you PERMANENT BAN </code> 🚨
+🚨 <code>Please do one by one Rename,Maximum 2 parallel process allowed.If you missuse this free service will lead you PERMANENT BAN </code> 🚨
 
 Created by This <a href="https://telegram.dog/oo7robot">Person</a>"""
 
