@@ -38,8 +38,11 @@ from database.database import *
 async def rename_doc(bot, update):
     if update.from_user.id in Config.BANNED_USERS:
         await update.reply_text("""Sorry you Misuse this free service with renaming more files at a time 
-        {Clearly said that maximun 2 parallel process allowed}..... 
-        <b>You are B A N N E D</b>""")
+        
+        <code>Clearly mentioned that maximun 2 parallel process allowed</code>..... 
+        
+       
+       <b>You are B A N N E D</b>""")
         
         return
     TRChatBase(update.from_user.id, update.text, "rename")
