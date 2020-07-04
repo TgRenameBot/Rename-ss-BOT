@@ -47,7 +47,7 @@ async def progress_for_pyrogram(
             ''.join(["⬜️" for i in range(10 - math.floor(percentage / 10))]),
             round(percentage, 2))
 
-        tmp = progress + "\n 📥 <b>Downloaded</b>   : `{0}`\n\n🗂️ <b>Total Size</b>       : `{1}` \n\n🚀 <b>Speed</b>             : `{2}/s`\n\n⏳ <b>Time Left</b>        : `{3}`\n\n\n`Kindly Wait to Finish this Renaming Process then Send Another FILE` \n <b>Thanks For Using @TgRenamebot</b>".format(
+        tmp = progress + "\n 📥 <b>Downloaded</b>   : `{0}`\n\n🗂️ <b>Total Size</b>       : `{1}` \n\n🚀 <b>Speed</b>             : `{2}/s`\n\n⏳ <b>Time Left</b>        : `{3}`\n\n\n`Kindly Wait for Finish this Renaming Process then Send Another FILE` \n\n <b>Thanks For Using @TgRenamebot</b>".format(
             humanbytes(current),
             humanbytes(total),
             humanbytes(speed),
