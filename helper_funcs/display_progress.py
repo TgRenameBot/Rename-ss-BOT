@@ -42,12 +42,12 @@ async def progress_for_pyrogram(
         elapsed_time = TimeFormatter(milliseconds=elapsed_time)
         estimated_total_time = TimeFormatter(milliseconds=estimated_total_time)
 
-        progress = "\nDownloading.... {2}%  \n\n{0}{1} \n\n".format(
+        progress = "\nUploading.... {2}%  \n\n{0}{1} \n\n".format(
             ''.join(["🟩" for i in range(math.floor(percentage / 10))]),
             ''.join(["⬜️" for i in range(10 - math.floor(percentage / 10))]),
             round(percentage, 2))
 
-        tmp = progress + "🗂️ <b>Total File Size</b> : `{1}`\n\n📥 <b>Downloaded</b> : `{0}` \n🚀 <b>Speed</b>.............: `{2}/s`\n⏳ <b>Time Left</b>.......: `{3}`\n\n ┈┈┈••✿ <b>@MyTestBotZ</b> ✿••┈┈┈\n\n`Kindly Wait for Finish this Renaming Process then Send Another FILE`\nelse <b> B A N</b>🚨 \n".format(
+        tmp = progress + "🗂️ <b>Total File Size</b> : `{1}`\n\n📥 <b>Uploaded</b> : `{0}` \n🚀 <b>Speed</b>.............: `{2}/s`\n⏳ <b>Time Left</b>.......: `{3}`\n\n ┈┈┈••✿ <b>@MyTestBotZ</b> ✿••┈┈┈\n\n`Kindly Wait for Finish this Renaming Process then Send Another FILE`\nelse <b> B A N</b>🚨 \n".format(
             humanbytes(current),
             humanbytes(total),
             humanbytes(speed),
