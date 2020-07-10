@@ -7,14 +7,14 @@ I can Rename all type of telegram files with Permanent Custom Thumbnail Support�
 
 See /help For My Features
 
-🚨 <code>Please do one by one Rename,Maximum 2 parallel process allowed.If you missuse this free service will lead you PERMANENT BAN </code> 🚨
+🚨 <code>Please do one by one Rename,No Flooding allowed,If you missuse this free service will lead you PERMANENT BAN </code> 🚨
 
-Created by This <a href="https://telegram.dog/oo7robot">Person</a>"""
+Created by @OO7ROBOT"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "you can use me free, don't forget to thank my master @OO7RoBot"
-    DOWNLOAD_START = "Downloading to my server 📥                    please wait...🙇🙇🙇"
+    DOWNLOAD_START = "Uploading to Local  host 🏫                   please wait...🙇🙇🙇"
     UPLOAD_START = "Yay, Rename File Successfully 😊 Now Uploading to Telegram 📤 "
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It? "
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Now you can send another File**"
