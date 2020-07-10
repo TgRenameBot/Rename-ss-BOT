@@ -37,12 +37,15 @@ from database.database import *
 @pyrogram.Client.on_message(pyrogram.Filters.command(["rename"]))
 async def rename_doc(bot, update):
     if update.from_user.id in Config.BANNED_USERS:
-        await update.reply_text("""Sorry you Misuse this free service with renaming more files at a time 
-        
-        <code>Clearly mentioned that maximun 2 parallel process allowed</code>..... 
-        
+        await update.reply_text("""Sorry dear,
+      <code>am Clearly mentioned that No Flooding is allowed</code>..... 
        
-       <b>You are B A N N E D</b>""")
+       you Misuse this free service with renaming more files at a time,
+       
+      so am giving you a Reward
+       <b>PERMANENT B A N </b>
+       
+       ENJOY 🥳🥳🥳""")
         
         return
     TRChatBase(update.from_user.id, update.text, "rename")
