@@ -36,7 +36,7 @@ Created by @OO7ROBOT"""
 📌 Reply to that file to /rename new name.extension.         
 Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
       
- eg:-  <code>/rename new name.mkv</code>
+ eg:-  <code>/rename MyTestBotZ.mkv</code>
        
        
  ⚠️ <b>Do one By One rename. Otherwise you will get Permenent Ban </b>🤷 ⚠️
@@ -51,15 +51,15 @@ Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
 
      ▫️@myTestbotz▫️
     """
-    REPLY_TO_DOC_FOR_RENAME_FILE = """ FCUK! what are you doing 😬. Reply with New Name.extension,
+    REPLY_TO_DOC_FOR_RENAME_FILE = """ FCUK! what are you doing 😬. Reply with /rename New Name.extension,
 
         
- Like this ☛`/rename New Name.mkv`
+ Like this ☛`/rename tgRenamebot.mkv`
                                                                      
  still confuse ? 
 
 goto @myTestbotz to get proper Guide. 
-(☛ https://t.me/myTestbotz/26 )"""
+(☛ https://t.me/myTestbotz/26 ) or pm @OO7ROBOT"""
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...
     This is Not a essay competition, 
     File Name limit allowed by Telegram is {alimit} characters .
