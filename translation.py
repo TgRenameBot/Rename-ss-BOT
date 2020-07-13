@@ -52,14 +52,13 @@ Extension like 👉 (mkv ,apk, mm3, mp4.. etc)
      ▫️@myTestbotz▫️
     """
     REPLY_TO_DOC_FOR_RENAME_FILE = """ FCUK! what are you doing 😬. Reply with /rename New Name.extension,
+ 
+ Still confuse ? 
 
-        
- Like this ☛`/rename tgRenamebot.mkv`
-                                                                     
- still confuse ? 
+goto @myTestbotz to get proper Guide.
 
-goto @myTestbotz to get proper Guide. 
-(☛ https://t.me/myTestbotz/26 ) or pm @OO7ROBOT"""
+ ☛ <a href="https://telegram.dog/myTestbotz/26"> How to Rename a file</a> 
+or pm @OO7ROBOT"""
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...
     This is Not a essay competition, 
     File Name limit allowed by Telegram is {alimit} characters .
